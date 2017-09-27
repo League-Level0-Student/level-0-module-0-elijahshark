@@ -6,7 +6,7 @@ public class Greeter {
 	
 	String name = JOptionPane.showInputDialog(null, " whats your name before i hack u");
 	JOptionPane.showMessageDialog(null,"Hi");
-	String fileName = 
+	
 	
 	
 	
